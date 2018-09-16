@@ -1,38 +1,38 @@
-# Welcome newbie open source contributors!
+# Bem vindo contribuidores novatos de código aberto!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This is a list of resources for people who are new to contributing to open source.
+Esta é uma lista de recursos para pessoas novatas em contribuir com código aberto.
 
-If you find additional resources, please contribute a pull request.
+Se você encontrar recursos adicionais ou traduzir, por favor, contribua com um pedido de pull. 
 
-If you have questions or comments, please create an issue.
+Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
 
-## Table of Contents
-- [Contributing to open source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using version control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [License](#license)
+## Índice
+  - [Contribuindo para o código aberto em geral](#contributing-to-open-source-in-general)
+  - [Persquisas diretas no GitHub](#direct-github-searches)
+  - [Ecossistema de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
+  - [Artigos úteis para novos contribuidores de código aberto](#useful-articles-for-new-open-source-contributors)
+  - [Usando o controle de versão](#using-version-control)
+  - [Livros de código aberto](#open-source-books)
+  - [Licença](#license)
 
-## Contributing to open source in general
-- [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
-- [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language.
-- [First Timers Only](http://www.firsttimersonly.com/) - a list of bugs that are labelled "first-timers-only".
-- [YourFirstPR](https://twitter.com/yourfirstpr) - starter issues on GitHub that can be easily tackled by new contributors.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- Do's and Don'ts on GitHub.
-- [GitHub Guides](https://guides.github.com/) - basic guides on how to use GitHub effectively.
-- [First Contributions](https://roshanjossey.github.io/first-contributions) - Make your first open source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to open source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner
+## Contribuindo para o código aberto em geral
+- [Up For Grabs](http://up-for-grabs.net/#/) - uma lista de projetos com questão amigáveis para iniciantes.
+- [Issuehub.io](http://issuehub.io/) - uma ferramenta para pesquisar problemas do GitHub por label e idioma.
+- [Code Triage](https://www.codetriage.com/) - outra ferramenta para pesquisar problemas populares por idioma.
+- [First Timers Only](http://www.firsttimersonly.com/) - uma lista de erros rotulados como "first-timers-only" = "somente novatos".
+- [YourFirstPR](https://twitter.com/yourfirstpr) - Twitter com problema no GitHub que podem ser facilmente abordados por novos contribuidores.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - um repositório do GitHub que acumula projetos com bons bugs para novos colabodadores e aplica rótulos para descrevê-los.
+- [Open Source Guides](https://opensource.guide/) - Material para pessoas, comunidades  e empresas que desejam aprender como executar e contribuir para um projeto de código aberto.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)- O que fazer e não fazer no GitHub.
+- [GitHub Guides](https://guides.github.com/) - Guias básicos sobre como usar o GitHub efetivamente.
+- [First Contributions](https://roshanjossey.github.io/first-contributions) - Faça sua primeira contribuição de código aberto em 5 minutos. Uma ferramenta e um tutorial para ajudar os iniciantes a começarem a contribuir.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Aprenda o fluxo de trabalho no GitHub contribuindo com código aberto para um projeto de simulação.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Os guias da Linux Foundation para projetos de código aberto.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Um guia de código aberto, escrito por Kent C. Dodds e Sarah Drasner.
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
