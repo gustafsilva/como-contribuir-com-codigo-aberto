@@ -1,5 +1,4 @@
 # Bem vindo contribuidores novatos de código aberto!
-
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
@@ -16,7 +15,7 @@ Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
   - [Ecossistema de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
   - [Artigos úteis para novos contribuidores de projetos de código aberto](#useful-articles-for-new-open-source-contributors)
   - [Usando o controle de versão](#using-version-control)
-  - [Livros de código aberto](#open-source-books)
+  - [Livros sobre código aberto](#open-source-books)
   - [Licença](#license)
 
 ## Contribuindo para o código aberto em geral
@@ -63,25 +62,25 @@ Pesquise links diretos que apontam diretamente para problemas adequado para cont
 - ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) por [@dougbradbury](https://twitter.com/dougbradbury)
 - ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) por [@GitHubGuides](https://guides.github.com/)
 
-## Using version control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](http://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - various tutorials on using `git`
+## Usando controle de versão
+- [Think Like (a) Git](http://think-like-a-git.net/) - Introdução ao Git para "iniciantes avançados", mas que ainda não estão lutando, a fim de dar uma estratégia simples para experimentar com segurança o git.
+- [Try Git](https://try.github.io/) - Aprenda Git em 15 minutos de dentro do seu navegador gratuitamente.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - Um conjunto mínimo de comandos para o dia a dia no Git.
+- [Oh shit, git!](http://ohshitgit.com/) - como sair dos erros comuns do `git` descritos em linguagem simples (inglês).
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - alguns tutoriais usando `git`
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - O GitHub fala sobre como fazer um pedido de pull
+- [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - recursos de aprendizado do Git e GitHub.
+- [Pro Git](https://git-scm.com/book/en/v2) - Livro Pro Git, escrito por Scott Chacon e Ben Straub e publicado pela Apress.
 - [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - A guide written by Madhav Bahl, which you should see if you are new to Git or GitHub, it covers GitHub as a service and concepts of Git version control in detail.
+- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - Guia passo a passo para aplicativo Git desktop.
+- [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Um guia escrito por Madhav Bahl, ele cobre o GitHub como um serviço de conceitos de controle de versão do Git em detalhes.
 
-## Open Source books
-- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free ebooks from https://opensource.com.
-- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
+## Livros sobre código aberto
+- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software é um livro sobre o lado humano do desenvolvimento de código aberto. Descreve como os projetos de sucesso operam, as expectativas dos usuários e desenvolvedores e cultura do software livre.
+- [Open Source Book Series](https://opensource.com/resources/ebooks) - Saiba mais sobre código aberto e o crescente movimento de código aberto com uma lista abrangente de e-books gratuitos em https://opensource.com .
+- [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este HOWTO descreve boas práticas de lançamento para Linux e outros projetos de código aberto. Ao seguir essas práticas, você tornará tão fácil quanto possível para os usuários criar seu código e usá-lo, e para outros desenvolvedores entender seu código e cooperar com você para melhorá-lo.
 
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado sob um <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
