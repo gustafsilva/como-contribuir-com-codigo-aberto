@@ -78,7 +78,7 @@ Pesquise links diretos que apontam diretamente para problemas adequado para cont
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Um guia escrito por Madhav Bahl, ele cobre o GitHub como um serviço de conceitos de controle de versão do Git em detalhes.
 
 ## Livros sobre código aberto
-- [Producing Open Source Software](http://producingoss.com/) - Producing Open Source Software é um livro sobre o lado humano do desenvolvimento de código aberto. Descreve como os projetos de sucesso operam, as expectativas dos usuários e desenvolvedores e cultura do software livre.
+- [Produzindo Software Open Source](https://producingoss.com/pt-br/) - Produzindo Software Open Source (Producing Open Source Software) é um livro sobre o lado humano do desenvolvimento de código aberto. Descreve como os projetos de sucesso operam, as expectativas dos usuários e desenvolvedores e cultura do software livre.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Saiba mais sobre código aberto e o crescente movimento de código aberto com uma lista abrangente de e-books gratuitos em https://opensource.com .
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - Este HOWTO descreve boas práticas de lançamento para Linux e outros projetos de código aberto. Ao seguir essas práticas, você tornará tão fácil quanto possível para os usuários criar seu código e usá-lo, e para outros desenvolvedores entender seu código e cooperar com você para melhorá-lo.
 
