@@ -6,7 +6,7 @@
 
 Esta é uma lista de recursos para pessoas novatas em contribuir com código aberto.
 
-Se você encontrar recursos adicionais ou traduzir, por favor, contribua com um pedido de pull. 
+Se você encontrar recursos adicionais ou ache alguma tradução incorreta, por favor, contribua com um pedido de pull. 
 
 Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
 
@@ -14,7 +14,7 @@ Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
   - [Contribuindo para o código aberto em geral](#contributing-to-open-source-in-general)
   - [Persquisas diretas no GitHub](#direct-github-searches)
   - [Ecossistema de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
-  - [Artigos úteis para novos contribuidores de código aberto](#useful-articles-for-new-open-source-contributors)
+  - [Artigos úteis para novos contribuidores de projetos de código aberto](#useful-articles-for-new-open-source-contributors)
   - [Usando o controle de versão](#using-version-control)
   - [Livros de código aberto](#open-source-books)
   - [Licença](#license)
@@ -34,8 +34,8 @@ Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
 - [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Os guias da Linux Foundation para projetos de código aberto.
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - Um guia de código aberto, escrito por Kent C. Dodds e Sarah Drasner.
 
-## Direct GitHub searches
-Search links that point directly to suitable issues to contribute to on GitHub.
+## Pesquisas diretas no GitHub
+Pesquise links diretos que apontam diretamente para problemas adequado para contribuir no GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -44,23 +44,24 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:starter](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
-## Mozilla's contributor ecosystem
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
 
-## Useful articles for new open source contributors
-- ["How to choose (and contribute to) your first open source project"](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
-- ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) by [@kentcdodds](https://github.com/kentcdodds)
-- ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) by [@shanselman](https://github.com/shanselman)
-- ["Getting into Open Source for the First Time"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) by [@GitHubGuides](https://guides.github.com/)
+## Ecossistema de contribuidores da Mozilla
+- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - busgs que os desenvolvedores indentificaram como uma boa introdução ao projeto.
+- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs que têm um mentor designado que estará no IRC, para ajudá-lo quando você ficar preso enquanto trabalha na correção.
+- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - um site dedicado a encontrar bugs no Bugzilla.
+- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - descubra o que você pode trabalhar, respondendo a um monte de perguntas sobre seu conjunto de habilidades e interesses.
+- [Start Mozilla](https://twitter.com/StartMozilla) - uma conta no Twitter que twitta sobre questões adequadas para colaboradores novos no ecossistema da Mozilla.
+
+## Artigos úteis para novos contribuidores de projetos de código aberto
+- ["How to choose (and contribute to) your first open source project"](https://github.com/collections/choosing-projects) por [@GitHub](https://github.com/github)
+- ["How to find your first open source bug to fix"](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) por [@Shubheksha](https://github.com/Shubheksha)
+- ["First Timers Only"](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) por [@kentcdodds](https://github.com/kentcdodds)
+- ["Bring Kindness Back to Open Source"](http://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) por [@shanselman](https://github.com/shanselman)
+- ["Getting into Open Source for the First Time"](https://web.archive.org/web/20170723130443/http://www.nearform.com:80/nodecrunch/first-time-with-open-source/) por [@mcdonnelldean](https://github.com/mcdonnelldean)
+- ["How to Contribute to Open Source"](https://opensource.guide/how-to-contribute/) por [@GitHub](https://github.com/github)
+- ["How to Find a Bug in Your Code"](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) por [@dougbradbury](https://twitter.com/dougbradbury)
+- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/) por [@GitHubGuides](https://guides.github.com/)
 
 ## Using version control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
@@ -82,5 +83,5 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about open source and the growing open source movement with a comprehensive list of free ebooks from https://opensource.com.
 - [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other open-source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## Licença
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado sob um <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
