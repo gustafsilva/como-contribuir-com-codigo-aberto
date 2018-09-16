@@ -1,8 +1,9 @@
 # Welcome newbie open source contributors!
-
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+
+## Documentação e material em português [clique aqui](README_pt-br.md).
 
 This is a list of resources for people who are new to contributing to open source.
 
@@ -11,13 +12,16 @@ If you find additional resources, please contribute a pull request.
 If you have questions or comments, please create an issue.
 
 ## Table of Contents
-- [Contributing to open source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using version control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [License](#license)
+- [Welcome newbie open source contributors!](#welcome-newbie-open-source-contributors)
+  - [Documentação e material em português clique aqui.](#documenta%C3%A7%C3%A3o-e-material-em-portugu%C3%AAs-clique-aqui)
+  - [Table of Contents](#table-of-contents)
+  - [Contributing to open source in general](#contributing-to-open-source-in-general)
+  - [Direct GitHub searches](#direct-github-searches)
+  - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
+  - [Useful articles for new open source contributors](#useful-articles-for-new-open-source-contributors)
+  - [Using version control](#using-version-control)
+  - [Open Source books](#open-source-books)
+  - [License](#license)
 
 ## Contributing to open source in general
 - [Up For Grabs](http://up-for-grabs.net/#/) - a list of projects with beginner-friendly issues.
