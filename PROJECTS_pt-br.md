@@ -1,73 +1,73 @@
-# Projects and Organizations
+# Projetos e Organizações
 
-This file contains a list of projects and organizations that are friendly to
-contributions, along with quick links to relevant documents you should reference
-before contributing.
+Esse arquivo contem uma lista de projetos e organizações que são amigáveis a
+contribuições, inclui também link para documentos relevantes que devem ser
+lidos antes de contribuir.
 
-- [Babel](https://github.com/babel/babel) (project)
-    - [Contributing Guide](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-        - [Good First Issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [Casualdate](https://github.com/StellarDoor5319/casualdate) (project)
-    - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
-    - Issue labels: 
-        - [good first contribution](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
+- [Babel](https://github.com/babel/babel) (projeto)
+    - [Guia para contribuição](https://github.com/babel/babel/blob/master/CONTRIBUTING.md)
+    - Rótulos de issues:
+        - [Uma boa primeira issue](https://github.com/babel/babel/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [Casualdate](https://github.com/StellarDoor5319/casualdate) (projeto)
+    - [Guia para contribuição](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+    - Rótulos de issues: 
+        - [Uma boa primeira contribuição](https://github.com/StellarDoor5319/casualdate/labels/good%20first%20contribution)
 - freeCodeCamp (org)
-    - [freeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/) (project)
-        - [Contributing guide](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
-        - Issue labels:
-            - [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-            - [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+    - [freeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/) (projeto)
+        - [Guia para contribuição](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md)
+        - Rótulos de issues:
+            - Para iniciantes: [first-timers-only](https://github.com/FreeCodeCamp/FreeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+            - Ajuda necessária: [help wanted](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 - Great big example application (org)
-    - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (project)
-    - [Contributing Guide](https://github.com/dancancro/great-big-example-application/projects/1)
+    - [Great-big-example-application](https://github.com/dancancro/great-big-angular2-example) (projeto)
+    - [Guia para contribuição](https://github.com/dancancro/great-big-example-application/projects/1)
 - nteract (org)
-    - [nteract](https://github.com/nteract/nteract) (project)
-        - [Contributing Guide](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
-        - Issue labels:
+    - [nteract](https://github.com/nteract/nteract) (projeto)
+        - [Guia para contribuição](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+        - Rótulos de issues:
             - [new-contributor-friendly](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Anew-contributor-friendly)
             - [mentoring-available](https://github.com/search?utf8=%E2%9C%93&q=user%3Anteract+is%3Aissue+is%3Aopen+is%3Amentoring-available)
 - Public Lab (org)
-    - [Plots2](https://github.com/publiclab/plots2) (project)
-        - [Contributing guide](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
-        - Issue labels:
+    - [Plots2](https://github.com/publiclab/plots2) (projeto)
+        - [Guia para contribuição](https://github.com/publiclab/plots2/blob/master/CONTRIBUTING.md)
+        - Rótulos de issues:
             - [first-timers-only](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
             - [help-wanted](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Ahelp-wanted)
             - [fto-candidate](https://github.com/publiclab/plots2/issues?q=is%3Aissue+is%3Aopen+label%3Afto-candidate)
 - React (org)
-    - [React](https://github.com/facebook/react) (project)
-        - [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
-        - Issue labels:
+    - [React](https://github.com/facebook/react) (projeto)
+        - [Guia para contribuição](https://reactjs.org/docs/how-to-contribute.html)
+        - Rótulos de issues:
             - [good first issue](https://github.com/facebook/react/issues?page=1&q=is%3Aissue+is%3Aopen)
 - Read the Docs (org)
     - [Read the Docs](http://docs.readthedocs.io/en/latest/index.html) (site)
-        - Issue labels:
+        - Rótulos de issues:
             - [Good First Bug](https://github.com/rtfd/readthedocs.org/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Bug%22)
 - Redfin (org)
-    - [react-server](https://react-server.io/) (project)
-        - [Contributing Guide](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
-        - Issue labels:
-            - [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
+    - [react-server](https://react-server.io/) (projeto)
+        - [Guia para contribuição](https://github.com/redfin/react-server/blob/master/CONTRIBUTING.md)
+        - Rótulos de issues:
+            - Um boa primeira contribição: [good first contribution](https://github.com/redfin/react-server/labels/good%20first%20contribution)
 - Servo (org)
-    - [Servo](https://starters.servo.org/) (project)
-        - [Contributing guide](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
-        - Issue labels:
+    - [Servo](https://starters.servo.org/) (projeto)
+        - [Guia para contribuição](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
+        - Rótulos de issues:
             - [Easy](https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+label%3AE-easy)
-- [Sympy](https://github.com/sympy/sympy) (project)
-    - [Dev Wiki](https://github.com/sympy/sympy/wiki#development)
+- [Sympy](https://github.com/sympy/sympy) (projeto)
+    - [Wiki do desenvolvedor](https://github.com/sympy/sympy/wiki#development)
     - [Work Flow](https://github.com/sympy/sympy/wiki/Development-workflow)
-    - [Contributing Guide](https://github.com/sympy/sympy/wiki/Introduction-to-contributing)
-    - Issue labels:
-        - [Easy to fix](https://github.com/sympy/sympy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Easy+to+Fix%22)
+    - [Guia de Contribuição](https://github.com/sympy/sympy/wiki/Introduction-to-contributing)
+    - Rótulos de issues:
+        - Fáceis de arrumar: [Easy to fix](https://github.com/sympy/sympy/issues?q=is%3Aissue+is%3Aopen+label%3A%22Easy+to+Fix%22)
 - TEAMMATES (org)
-    - [TEAMMATES](https://github.com/TEAMMATES/teammates) (project)
-        - [Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)
-        - Issue labels:
-            - [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
-            - [d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
+    - [TEAMMATES](https://github.com/TEAMMATES/teammates) (projeto)
+        - [Guia para contribuição](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)
+        - Rótulos de issues:
+            - Para primeira vez: [d.FirstTimers](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers)
+            - Contribuidores"[d.Contributors](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.Contributors)
 - Zulip (org)
-    - [Zulip](https://github.com/zulip) (project)
-    - [Contributing Guide](https://github.com/zulip/zulip/blob/master/CONTRIBUTING.md)
-    - Issue labels:
-       - [Good First Issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-       - [Help Wanted](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+    - [Zulip](https://github.com/zulip) (projeto)
+    - [Guia para contribuição](https://github.com/zulip/zulip/blob/master/CONTRIBUTING.md)
+    - Rótulos de issues:
+       - [Uma boa primeira issue](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+       - [Precisando de ajuda](https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
