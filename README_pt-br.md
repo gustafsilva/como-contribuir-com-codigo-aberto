@@ -5,18 +5,18 @@
 
 Esta é uma lista de recursos para pessoas novatas em contribuir com código aberto.
 
-Se você encontrar recursos adicionais ou ache alguma tradução incorreta, por favor, contribua com um pedido de pull. 
+Se você encontrar recursos adicionais ou ache alguma tradução incorreta, por favor, contribua com um pedido de pull.
 
 Se você tiver alguma dúvida ou queira deixar um comentário, crie um issue.
 
 ## Índice
-  - [Contribuindo para o código aberto em geral](#contributing-to-open-source-in-general)
-  - [Persquisas diretas no GitHub](#direct-github-searches)
-  - [Ecossistema de contribuidores da Mozilla](#mozillas-contributor-ecosystem)
-  - [Artigos úteis para novos contribuidores de projetos de código aberto](#useful-articles-for-new-open-source-contributors)
-  - [Usando o controle de versão](#using-version-control)
-  - [Livros sobre código aberto](#open-source-books)
-  - [Licença](#license)
+  - [Contribuindo para o código aberto em geral](#contribuindo-para-o-código-aberto-em-geral)
+  - [Persquisas diretas no GitHub](#pesquisas-diretas-no-github)
+  - [Ecossistema de contribuidores da Mozilla](#ecossistema-de-contribuidores-da-mozilla)
+  - [Artigos úteis para novos contribuidores de projetos de código aberto](#artigos-úteis-para-novos-contribuidores-de-projetos-de-código-aberto)
+  - [Usando o controle de versão](#usando-controle-de-versão)
+  - [Livros sobre código aberto](#livros-sobre-código-aberto)
+  - [Licença](#licença)
 
 ## Contribuindo para o código aberto em geral
 - [Up For Grabs](http://up-for-grabs.net/#/) - uma lista de projetos com questão amigáveis para iniciantes.
