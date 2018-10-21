@@ -49,7 +49,7 @@ Pesquise links diretos que apontam diretamente para problemas adequado para cont
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs que têm um mentor designado que estará no IRC, para ajudá-lo quando você ficar preso enquanto trabalha na correção.
 - [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
 - [Firefox DevTools](http://firefox-dev.tools/) - um site dedicado a encontrar bugs no Bugzilla.
-- [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - descubra o que você pode trabalhar, respondendo a um monte de perguntas sobre seu conjunto de habilidades e interesses.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/?lang=pt-BR) - descubra o que você pode trabalhar, respondendo a um monte de perguntas sobre seu conjunto de habilidades e interesses.
 - [Start Mozilla](https://twitter.com/StartMozilla) - uma conta no Twitter que twitta sobre questões adequadas para colaboradores novos no ecossistema da Mozilla.
 
 ## Artigos úteis para novos contribuidores de projetos de código aberto
