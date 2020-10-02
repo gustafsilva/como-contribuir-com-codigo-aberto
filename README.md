@@ -51,7 +51,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 ## Mozilla's contributor ecosystem
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix.
-- [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
+- [Codetribute](https://codetribute.mozilla.org/) - a site that guides contributors to their first contribution.
 - [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
 - [What Can I Do For Mozilla](http://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
 - [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
